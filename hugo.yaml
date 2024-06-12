@@ -1,0 +1,49 @@
+baseURL: ""
+languageCode: en-us
+title: Morgan Chapter
+theme: PaperMod
+
+params:
+  defaultTheme: light
+
+  homeInfoParams:
+    Title: Lewis Henry Morgan Chapter of NYSAA
+    Content: The Lewis Henry Morgan Chapter of the New York State Archaeological Association (NYSAA), founded in 1916 and named after the renowned anthropologist Lewis Henry Morgan, is the oldest and largest chapter dedicated to fostering an interest in New York State archaeology. Morgan's significant contributions, including "League of the Iroquois" and "Ancient Society," have earned international recognition. Our chapter, based in Rochester, meets almost monthly to promote archaeological enthusiasm and historical exploration, welcoming members from diverse backgrounds to share in our passion for New York archaeology.
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+    
+  ShowReadingTime: true
+  ShowToc: true
+  TocOpen: true
+  ShowPostNavLinks: true
+  
+  socialIcons:
+    - name: youtube
+      url: "https://www.youtube.com/@lhmchapter/videos"
+    - name: facebook
+      url: "https://www.facebook.com/LHMChapter"
+
+menu:
+    main:
+        - identifier: events
+          name: Events
+          url: /events/
+          weight: 10
+        - identifier: membership
+          name: Membership
+          url: /membership/
+          weight: 20
+        - identifier: resources
+          name: Resources
+          url: /resources/
+          weight: 30
+        - identifier: archives
+          name: News Archive
+          url: /archives/
+          weight: 40
+            
+            
+      
