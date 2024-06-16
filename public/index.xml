@@ -99,12 +99,5 @@
       <guid>http://localhost:1313/resources/</guid>
       <description>resources</description>
     </item>
-    <item>
-      <title>Tram Site</title>
-      <link>http://localhost:1313/digs/tram-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/digs/tram-site/</guid>
-      <description>Tram Site</description>
-    </item>
   </channel>
 </rss>
