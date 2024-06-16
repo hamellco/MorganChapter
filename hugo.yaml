@@ -32,18 +32,22 @@ menu:
           name: Events
           url: /events/
           weight: 10
+        - identifier: digs
+          name: Digs
+          url: /digs/
+          weight: 20
         - identifier: membership
           name: Membership
           url: /membership/
-          weight: 20
+          weight: 30
         - identifier: resources
           name: Resources
           url: /resources/
-          weight: 30
+          weight: 40
         - identifier: archives
           name: News Archive
           url: /archives/
-          weight: 40
+          weight: 50
             
             
       

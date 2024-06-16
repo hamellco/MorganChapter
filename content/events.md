@@ -22,7 +22,7 @@ summary = 'events'
 *None currently scheduled*
 
 ### Archaeological Digs
--  **Summer Dig** - Selby Howard Site, Pumpkin Hook, Farmington, New York
+-  **[Summer Dig](digs/selbyhowardsite)** - Selby Howard Site, Pumpkin Hook, Farmington, New York
 	- **Weekend 1:** July 20 - July 21, 2024
 	- **Weekend 2:** July 20 - July 21, 2024	
 
