@@ -2,41 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morganchapter.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-11T21:27:26-04:00</lastmod>
   </url><url>
-    <loc>https://morganchapter.org/posts/nysaa-summer-2024-newsletter/</loc>
+    <loc>http://localhost:1313/posts/nysaa-summer-2024-newsletter/</loc>
     <lastmod>2024-06-11T21:27:26-04:00</lastmod>
   </url><url>
-    <loc>https://morganchapter.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-11T21:27:26-04:00</lastmod>
   </url><url>
-    <loc>https://morganchapter.org/posts/presentation----photographing-small-artifacts-by-larry-naylor/</loc>
+    <loc>http://localhost:1313/posts/presentation----photographing-small-artifacts-by-larry-naylor/</loc>
     <lastmod>2024-02-21T01:05:18+00:00</lastmod>
   </url><url>
-    <loc>https://morganchapter.org/posts/presentation----revisiting-fort-orange-albany-ny-by-sissie-pipes/</loc>
+    <loc>http://localhost:1313/posts/presentation----revisiting-fort-orange-albany-ny-by-sissie-pipes/</loc>
     <lastmod>2023-12-02T01:05:18+00:00</lastmod>
   </url><url>
-    <loc>https://morganchapter.org/posts/presentation---the-south-bristol-school-house---results-of-the-morgan-chapter-2022-excavation-by-sissie-pipes-and-doug-pippin/</loc>
+    <loc>http://localhost:1313/posts/presentation---the-south-bristol-school-house---results-of-the-morgan-chapter-2022-excavation-by-sissie-pipes-and-doug-pippin/</loc>
     <lastmod>2023-04-17T01:05:18+00:00</lastmod>
   </url><url>
-    <loc>https://morganchapter.org/posts/presentation---origins-of-the-iroquois-league-narratives-symbols-and-archaeology/</loc>
+    <loc>http://localhost:1313/posts/presentation---origins-of-the-iroquois-league-narratives-symbols-and-archaeology/</loc>
     <lastmod>2022-06-29T21:05:18-04:00</lastmod>
   </url><url>
-    <loc>https://morganchapter.org/categories/</loc>
+    <loc>http://localhost:1313/digs/alva-reed-site/</loc>
   </url><url>
-    <loc>https://morganchapter.org/digs/</loc>
+    <loc>http://localhost:1313/digs/alva-reed-site/</loc>
   </url><url>
-    <loc>https://morganchapter.org/events/</loc>
+    <loc>http://localhost:1313/digs/belcher-site/</loc>
   </url><url>
-    <loc>https://morganchapter.org/membership/</loc>
+    <loc>http://localhost:1313/digs/burning-springs-site/</loc>
   </url><url>
-    <loc>https://morganchapter.org/archives/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://morganchapter.org/resources/</loc>
+    <loc>http://localhost:1313/digs/</loc>
   </url><url>
-    <loc>https://morganchapter.org/tags/</loc>
+    <loc>http://localhost:1313/events/</loc>
   </url><url>
-    <loc>https://morganchapter.org/tram-site/</loc>
+    <loc>http://localhost:1313/membership/</loc>
+  </url><url>
+    <loc>http://localhost:1313/digs/miller-site/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

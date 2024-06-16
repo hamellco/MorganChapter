@@ -2,80 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Morgan Chapter</title>
-    <link>https://morganchapter.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Morgan Chapter</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2024 21:27:26 -0400</lastBuildDate>
-    <atom:link href="https://morganchapter.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NYSAA Summer 2024 Newsletter</title>
-      <link>https://morganchapter.org/posts/nysaa-summer-2024-newsletter/</link>
+      <link>http://localhost:1313/posts/nysaa-summer-2024-newsletter/</link>
       <pubDate>Tue, 11 Jun 2024 21:27:26 -0400</pubDate>
-      <guid>https://morganchapter.org/posts/nysaa-summer-2024-newsletter/</guid>
+      <guid>http://localhost:1313/posts/nysaa-summer-2024-newsletter/</guid>
       <description>Click hereto download the NYSAA Summer 2024 Newsletter (.pdf).</description>
     </item>
     <item>
       <title>Presentation: Photographing Small Artifacts by Larry Naylor</title>
-      <link>https://morganchapter.org/posts/presentation----photographing-small-artifacts-by-larry-naylor/</link>
+      <link>http://localhost:1313/posts/presentation----photographing-small-artifacts-by-larry-naylor/</link>
       <pubDate>Wed, 21 Feb 2024 01:05:18 +0000</pubDate>
-      <guid>https://morganchapter.org/posts/presentation----photographing-small-artifacts-by-larry-naylor/</guid>
+      <guid>http://localhost:1313/posts/presentation----photographing-small-artifacts-by-larry-naylor/</guid>
       <description>In this talk, Larry Naylor will discuss strategies for taking photographs of small archaeological artifacts for presentations, reports, and publication using digital photography and Photoshop for processing images. Lighting techniques, positioning, backgrounds, and scales are important for accurate documentation of artifacts. Photographing lithics, ceramics, glass, coins, metal objects, and skeletal material will be demonstrated throughout the presentation.</description>
     </item>
     <item>
       <title>Presentation: Revisiting Fort Orange, Albany NY by Sissie Pipes</title>
-      <link>https://morganchapter.org/posts/presentation----revisiting-fort-orange-albany-ny-by-sissie-pipes/</link>
+      <link>http://localhost:1313/posts/presentation----revisiting-fort-orange-albany-ny-by-sissie-pipes/</link>
       <pubDate>Sat, 02 Dec 2023 01:05:18 +0000</pubDate>
-      <guid>https://morganchapter.org/posts/presentation----revisiting-fort-orange-albany-ny-by-sissie-pipes/</guid>
+      <guid>http://localhost:1313/posts/presentation----revisiting-fort-orange-albany-ny-by-sissie-pipes/</guid>
       <description> </description>
     </item>
     <item>
       <title>The South Bristol School House: Results of the Morgan Chapter 2022 Excavation by Sissie Pipes and Doug Pippin</title>
-      <link>https://morganchapter.org/posts/presentation---the-south-bristol-school-house---results-of-the-morgan-chapter-2022-excavation-by-sissie-pipes-and-doug-pippin/</link>
+      <link>http://localhost:1313/posts/presentation---the-south-bristol-school-house---results-of-the-morgan-chapter-2022-excavation-by-sissie-pipes-and-doug-pippin/</link>
       <pubDate>Mon, 17 Apr 2023 01:05:18 +0000</pubDate>
-      <guid>https://morganchapter.org/posts/presentation---the-south-bristol-school-house---results-of-the-morgan-chapter-2022-excavation-by-sissie-pipes-and-doug-pippin/</guid>
+      <guid>http://localhost:1313/posts/presentation---the-south-bristol-school-house---results-of-the-morgan-chapter-2022-excavation-by-sissie-pipes-and-doug-pippin/</guid>
       <description> </description>
     </item>
     <item>
       <title>Presentation: Origins of the Iroquois League Narratives, Symbols, and Archaeology</title>
-      <link>https://morganchapter.org/posts/presentation---origins-of-the-iroquois-league-narratives-symbols-and-archaeology/</link>
+      <link>http://localhost:1313/posts/presentation---origins-of-the-iroquois-league-narratives-symbols-and-archaeology/</link>
       <pubDate>Wed, 29 Jun 2022 21:05:18 -0400</pubDate>
-      <guid>https://morganchapter.org/posts/presentation---origins-of-the-iroquois-league-narratives-symbols-and-archaeology/</guid>
+      <guid>http://localhost:1313/posts/presentation---origins-of-the-iroquois-league-narratives-symbols-and-archaeology/</guid>
       <description>Presentation by: Martha L. Sempowski Date: Wednesday June 29, 2022, 7:00 pm Location: Pittsford Recreation, 35 Lincoln Ave., Pittsford NY 14534 This talk by Martha Sempowski will provide a brief summary of the most important questions and conclusions reached by co-author Anthony Wonderley and her in their book on the League of the Iroquois published by Syracuse University Press in 2019. The Iroquois League, made up of the five historically-known tribal groups (Seneca, Cayuga, Onondaga, Oneida and Mohawk) whose homelands stretched across NYS, was the most famous native political alliance in northeastern North America during the 17th and 18th centuries.</description>
     </item>
     <item>
-      <title>Digs</title>
-      <link>https://morganchapter.org/digs/</link>
+      <title>Alva Reed Site</title>
+      <link>http://localhost:1313/digs/alva-reed-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://morganchapter.org/digs/</guid>
+      <guid>http://localhost:1313/digs/alva-reed-site/</guid>
+      <description>Alva Reed Site</description>
+    </item>
+    <item>
+      <title>Belcher Site</title>
+      <link>http://localhost:1313/digs/belcher-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/digs/belcher-site/</guid>
+      <description>Belcher Site</description>
+    </item>
+    <item>
+      <title>Burning Springs Site</title>
+      <link>http://localhost:1313/digs/burning-springs-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/digs/burning-springs-site/</guid>
+      <description>Burning Springs Site</description>
+    </item>
+    <item>
+      <title>Digs</title>
+      <link>http://localhost:1313/digs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/digs/</guid>
       <description>digs</description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://morganchapter.org/events/</link>
+      <link>http://localhost:1313/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://morganchapter.org/events/</guid>
+      <guid>http://localhost:1313/events/</guid>
       <description>events</description>
     </item>
     <item>
       <title>Membership</title>
-      <link>https://morganchapter.org/membership/</link>
+      <link>http://localhost:1313/membership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://morganchapter.org/membership/</guid>
+      <guid>http://localhost:1313/membership/</guid>
       <description>membership</description>
     </item>
     <item>
-      <title>Resources</title>
-      <link>https://morganchapter.org/resources/</link>
+      <title>Miller Site</title>
+      <link>http://localhost:1313/digs/miller-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://morganchapter.org/resources/</guid>
+      <guid>http://localhost:1313/digs/miller-site/</guid>
+      <description>Miller Site</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/</guid>
       <description>resources</description>
     </item>
     <item>
       <title>Tram Site</title>
-      <link>https://morganchapter.org/tram-site/</link>
+      <link>http://localhost:1313/digs/tram-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://morganchapter.org/tram-site/</guid>
+      <guid>http://localhost:1313/digs/tram-site/</guid>
       <description>Tram Site</description>
     </item>
   </channel>

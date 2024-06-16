@@ -50,4 +50,7 @@ menu:
           weight: 50
             
             
-      
+markup:
+  goldmark:
+    renderer:
+      unsafe: true      
