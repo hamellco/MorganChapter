@@ -4,7 +4,7 @@ date: 2024-06-11T21:27:26-04:00
 draft: false
 author: Griffin D. Hamell
 cover:
-  image: 'https://files.morganchapter.org/old-dig.webp'
+  image: 'https://files.morganchapter.org/img%2Fold-dig.webp'
   alt: 'AI Generated photo of a Historical Archaeology Dig'
   caption: 'AI Generated photo of a Historical Archaeology Dig'
 ---
