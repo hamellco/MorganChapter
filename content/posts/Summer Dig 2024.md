@@ -21,19 +21,19 @@ cover:
 ## Location  
 The Selby Howard site is in Pumpkin Hook, located near the 1816 Quaker Meeting House, which is a hamlet of Farmington, NY.  Specific driving directions will be sent out via email as we get closer to the excavation event.
  
-## Registration Fee:
+## Registration Fee
 - $10 Student
 - $20 Individual
 - $30 Family Pack (2 or more Members in the same household)
  
 For Family Pack, list the names of other people in your party. Children aged 10 or older are welcome, but if under 16 years old, they must be accompanied by an adult at all times.  
  
-## To Register:
+## To Register
 You must be an active member of the Morgan Chapter to participate.  Memberships are available to anyone 12 years of age or older.  Please fill out the attached PDF registration form; if you are not currently a member, please also fill out the attached membership form. 
  
 <span style="color:red">**All registration forms must be received by Friday, July 12th.**</span>
  
-## Payment method:  
+## Payment Method  
 For registration and membership, mail check to Lori Hunt, 2 Ryder Cup Cir, Pittsford NY 14534. Make checks payable to Lewis H. Morgan Chapter, NYSAA and include payment for all required fees.
 
 ## Questions  
